@@ -17,12 +17,6 @@ The data cleaning process involved several steps to ensure the integrity and usa
 ## Analysis
 The analysis section covers several key areas:
 
-### Data Cleaning and Preparation
-Detailed steps on data cleaning and preparation, ensuring data integrity.
-
-### Analysing and Visualising Data
-General analysis and visualization techniques used throughout the project.
-
 ### The Number of Races in 50 km, 100 km, 24h, and 12h Categories by Gender
 Analysis of race participation across different categories segmented by gender.
 
@@ -40,24 +34,6 @@ Relationship between total time spent running and speed.
 
 ### Event Name that Has Most Performance Time in Hours
 Identifying the events with the longest performance times.
-
-### Each Event with Fastest Finish
-Highlighting events with the fastest finish times.
-
-### Top 5 Events with Fastest Finish
-Listing the top 5 events with the quickest finish times.
-
-### Each Event with Slowest Finish
-Identifying events with the slowest finish times.
-
-### Top 5 Events with Slowest Finish
-Listing the top 5 events with the slowest finish times.
-
-### Does Season Have Effect on Athlete Performance
-Examining the impact of different seasons on performance.
-
-### Season-Wise Participation
-Analysis of athlete participation across different seasons.
 
 ### Comparing the Average Speed and Participation of Athletes by Season and Gender
 Comparative analysis of speed and participation segmented by season and gender.
