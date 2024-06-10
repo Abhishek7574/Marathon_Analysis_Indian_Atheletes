@@ -1,2 +1,3 @@
 # Marathon_Analysis_Indian_Atheletes
-his project provides an in-depth analysis of marathon performance by Indian athletes. It explores various aspects such as age, gender, and regional differences, offering insights into performance trends and identifying key factors influencing marathon outcomes.
+## Description of the Project:
+The "Marathon Analysis: Indian Athletes" project aims to uncover patterns and insights from the performance data of Indian marathon runners. The analysis covers demographic factors such as age and gender, examining their impact on marathon completion times. Additionally, it delves into regional variations, highlighting differences in performance across various states. The project employs visualizations and statistical techniques to present findings, making it a valuable resource for athletes, coaches, and sports enthusiasts looking to understand and enhance marathon performance in India.
