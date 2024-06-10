@@ -15,10 +15,55 @@ The data cleaning process involved several steps to ensure the integrity and usa
 5. **Data Transformation**: Structured the data into a format suitable for analysis.
 
 ## Analysis
-The analysis explored various demographic factors and their impact on marathon performance:
-- **Age and Gender**: Examined how different age groups and genders perform in marathons.
-- **Regional Variations**: Analyzed performance differences across various states.
-- **Performance Trends**: Identified trends and patterns in marathon completion times.
+The analysis section covers several key areas:
+
+### Data Cleaning and Preparation
+Detailed steps on data cleaning and preparation, ensuring data integrity.
+
+### Analysing and Visualising Data
+General analysis and visualization techniques used throughout the project.
+
+### The Number of Races in 50 km, 100 km, 24h, and 12h Categories by Gender
+Analysis of race participation across different categories segmented by gender.
+
+### Average Speed vs Age
+Examining how average speed varies with age.
+
+### Athlete Average Speed by Event Distance and Gender
+Insights into how distance and gender impact average speed.
+
+### The Relationship Between the Length of the Race and Athlete Average Speed
+Exploring how race length affects average speed.
+
+### Time in Hours vs Speed
+Relationship between total time spent running and speed.
+
+### Event Name that Has Most Performance Time in Hours
+Identifying the events with the longest performance times.
+
+### Each Event with Fastest Finish
+Highlighting events with the fastest finish times.
+
+### Top 5 Events with Fastest Finish
+Listing the top 5 events with the quickest finish times.
+
+### Each Event with Slowest Finish
+Identifying events with the slowest finish times.
+
+### Top 5 Events with Slowest Finish
+Listing the top 5 events with the slowest finish times.
+
+### Does Season Have Effect on Athlete Performance
+Examining the impact of different seasons on performance.
+
+### Season-Wise Participation
+Analysis of athlete participation across different seasons.
+
+### Comparing the Average Speed and Participation of Athletes by Season and Gender
+Comparative analysis of speed and participation segmented by season and gender.
+
+### Effect of Season on Athlete Average
+Detailed look at how seasonal changes affect average speed and performance.
 
 The project employs a range of visualizations and statistical methods to present these findings effectively.
 
